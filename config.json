@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"sqlite:////tmp/Myprodb.db",
+        "prod_uri":"sqlite:////tmp/Myprodb.db",
+        "fb_url":"https://facebook.com/ajitsahoo",
+        "tw_url":"https://twitter.com/ajitsahoo",
+        "gh_url":"https://github.com/ajitsahoo",
+        "blog_name":"Mirafra Technology",
+        "gmail-user":"asahoo28@gmail.com",
+        "gmail-password":"ajitlitan"
+
+    }
+}
